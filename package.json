@@ -1,0 +1,6 @@
+{
+  "name": "zero-js",
+  "scripts": {
+    "test": "grunt travis"
+  }
+}
